@@ -1,5 +1,5 @@
 ---
-banner: "Git/Photos/Photo Header/Header  1.png"
+banner: Git Sync/Obsidian/Photos/Notion Header 65.png
 tags: pendiente
 sticker: lucide//receipt
 ---
