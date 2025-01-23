@@ -3,7 +3,7 @@ tags:
   - Inportante
   - Pendiente
 sticker: lucide//landmark
-banner: Notion Header 65.png
+banner: "Git Sync/Obsidian/Photos Header/Header.png"
 ---
  Cas Mutua 
 
