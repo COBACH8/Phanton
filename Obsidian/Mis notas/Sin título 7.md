@@ -1,0 +1,1 @@
+El tiempo, propulsor de la nada y del todo, junto a el aprendemos y crecemos sabiendo que la vida es cambio sabiendo que el nolo es todo. 
