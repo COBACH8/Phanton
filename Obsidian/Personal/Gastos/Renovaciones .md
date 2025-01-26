@@ -1,7 +1,9 @@
 ---
-banner: "b0f06984b60c14d23c3ed63dd6c93694.jpg"
-tags: pendiente
+banner: "Git Sync/Obsidian/Photos Header/Screenshot_20250126_004510_Gallery.jpg"
+tags:
+  - pendiente
 sticker: lucide//wallet
+banner_x: 0.5
 ---
 Windy 27/Septiembre /2025
 
