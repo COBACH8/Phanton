@@ -2,6 +2,7 @@
 banner: "Git Sync/Obsidian/Photos Header/Screenshot_20250126_004510_Gallery.jpg"
 tags:
   - pendiente
+  - Gastos
 sticker: lucide//wallet
 banner_x: 0.5
 ---
