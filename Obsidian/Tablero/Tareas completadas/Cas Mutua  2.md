@@ -2,8 +2,9 @@
 tags:
   - inportante
   - pendiente
-created: 2025-01-26
-sticker: lucide//file-plus
+created: 2025-01-27
+sticker: lucide//alarm-plus
 banner: "Git Sync/Obsidian/Photos Header/Screenshot_20250126_004510_Gallery.jpg"
+banner_x: 0.5
 ---
-- [ ] Cas Mutua 📅  2025-04-14
+- [x] Cas Mutua 📅 2025-02-10 ✅ 2025-02-12
