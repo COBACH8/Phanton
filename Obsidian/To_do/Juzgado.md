@@ -3,7 +3,7 @@
 tags:
   - inportante
   - pendiente
-published: 26/1/2025
+published: 2025-01-20
 banner: "Git Sync/Obsidian/Photos Header/Screenshot_20250126_004510_Gallery.jpg"
 sticker: lucide//landmark
 ---
