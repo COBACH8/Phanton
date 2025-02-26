@@ -1,4 +1,4 @@
 ---
-banner: "Git Sync/Obsidian/Photos Header/Screenshot_20250126_004510_Gallery.jpg"
+banner: Git Sync/Obsidian/Archivos/Screenshot_05_Gallery.jpg
 ---
 6079 Fam
