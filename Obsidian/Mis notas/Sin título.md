@@ -1,0 +1,1 @@
+Mientras no aya un verdadero equilibrio entre lo que esta bien y lo que esta mal seguiremos viviendo en una sociedad totalmente descompensada.

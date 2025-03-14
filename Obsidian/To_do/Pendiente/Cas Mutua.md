@@ -1,9 +1,7 @@
 ---
 tags:
   - inportante
-created: 2025-02-24
-sticker: lucide//alarm-plus
+published: 2025-03-14
 banner: "Git Sync/Obsidian/Archivos/Screenshot_05_Gallery.jpg"
-banner_x: 0.5
 ---
-- [ ] Cas Mutua ⏳ 2025-03-10
+- [ ] Cas Mutua  2025-03-24 📅 2025-03-24
