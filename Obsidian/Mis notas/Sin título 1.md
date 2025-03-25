@@ -1,0 +1,1 @@
+Todos tenemos la oportunidad de hacer algo importante a lo largo de nuestras vidas que suponga un plus, y no hablo de hacerlo por nosotros mismos si no de hacerlo por los demás habló de ponerse en el lugar del otro de ser más enpaticos.
