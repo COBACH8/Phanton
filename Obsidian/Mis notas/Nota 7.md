@@ -1,1 +1,1 @@
-Algunos de vosotros sois como una china en el zapato, molestos, pero no por eso voy a dejar de caminar.
+A ti que vas de enterado, que tanto te creés que sabes lo que hago como lo hago como soy y como pienso si te estoy dando de beber del vaso que yo quiero.

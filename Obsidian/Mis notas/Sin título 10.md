@@ -1,0 +1,1 @@
+Viniendo de donde vengo y estando en vuelto en las situaciones que estoy solo tu puta ignorancia acompañada de tu inocencia te pueden llevar a creer que alguien como tu me puede pisotear soltando cuatro gilipolleces en una red social.

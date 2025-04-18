@@ -1,1 +1,0 @@
-Criticas, blasfemias, todo ello viniendo de personas que tienen la autoestima tan baja que ya no saben si es mejor intentar levantarla o cabar un oyó y enterrarla.
